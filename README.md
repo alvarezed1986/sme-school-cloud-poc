@@ -12,3 +12,4 @@ This material is shared for public viewing and evaluation only.
 All rights are reserved by the author.
 
 Please refer to COPYRIGHT.md for full terms.
+© 2025 Edly Nipaya Alvarez. All rights reserved. See COPYRIGHT.md for terms.
